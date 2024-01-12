@@ -1,0 +1,108 @@
+{
+    "name": "Some",
+    "surname": "Duck",
+    "title": "Quack Engineer",
+    "profileTitle": "Profile",
+    "profile": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium turpis eu aliquet maximus.",
+        "Aliquam interdum magna enim, eu condimentum odio aliquam non. Pellentesque nulla purus, eleifend non feugiat ac, bibendum quis ex. Sed non dictum magna. Ut quis dapibus ipsum. Morbi venenatis, diam et facilisis venenatis, nulla purus cursus arcu, id faucibus eros leo vel diam.",
+        "Suspendisse in nunc felis. Duis elementum turpis ut justo pellentesque, quis lacinia ante tempor. Proin mattis urna id aliquam lobortis. Phasellus pharetra malesuada ipsum, sit amet ultricies augue. Praesent mattis facilisis lacus, id egestas tellus molestie sed."
+    ],
+    "experienceTitle": "Experience",
+    "experience": [
+        {
+            "years": "2022 - 2024",
+            "company": "Pied Piper",
+            "title": "Frog walker",
+            "keywords": ["Frogs", "Pets"],
+            "description": [
+                "Pellentesque porttitor risus non volutpat iaculis."
+            ]
+        },
+        {
+            "years": "2018 - 2022",
+            "company": "Bachmanity",
+            "title": "Complexity Disengineer",
+            "keywords": ["Tough stuff", "Convolutedness"],
+            "description": [
+                "Vestibulum euismod orci ante, vitae aliquet massa dictum sodales. Donec a ligula magna. Cras sed posuere diam. Donec maximus nisi sed mauris vulputate scelerisque.",
+                [
+                    "Curabitur condimentum",
+                    "Vivamus ultrices est ac velit tincidunt scelerisque",
+                    "Praesent vel euismod massa.",
+                    "Viverra lectus ullamcorper",
+                    "Malesuada tellus",
+                    "Integer vitae tellus blandit, rhoncus mi sed, dictum eros. Ut at egestas ante, sit amet varius justo."
+                ],
+                "Aliquam ac blandit urna, non eleifend augue. Ut vitae imperdiet augue. Donec interdum mollis neque sed vestibulum. Fusce in consequat mauris.",
+                "Donec lacinia neque velit, vel rhoncus erat tempor id."
+            ]
+        },
+        {
+            "years": "2016 - 2018",
+            "company": "Endframe",
+            "title": "Senior Mountaingazer",
+            "keywords": ["Landscapes"],
+            "description": [
+                "Quisque dolor eros, efficitur et cursus id, lobortis quis eros. Vestibulum consectetur lobortis lorem eu molestie. Donec consectetur facilisis ipsum, nec varius magna blandit varius.",
+                "Donec nec mattis neque. In in efficitur dolor, sit amet venenatis eros. Etiam pulvinar nisl ut viverra volutpat.",
+                "Pellentesque gravida ligula ut blandit pellentesque."
+            ]
+        },
+        {
+            "years": "2016 - 2016",
+            "company": "Raviga",
+            "title": "Envelope Enveloper",
+            "keywords": ["Mail", "Tongue Twister"],
+            "description": [
+                "Curabitur ac ex vel odio pharetra consectetur eu sit amet arcu."
+            ]
+        },
+        {
+            "years": "2014 - 2015",
+            "company": "Hooli",
+            "title": "Candle Engineer",
+            "keywords": ["Lighting", "Ambience"],
+            "description": [
+                "Vivamus vel tellus varius, tempor turpis vitae, molestie neque. Donec fermentum blandit urna vitae congue. Sed id purus at orci pulvinar pharetra. Mauris porttitor, massa et tempus iaculis, nisl justo semper orci, sed consequat tortor purus vitae dui.",
+                "Proin cursus a quam in malesuada. Aliquam tristique, leo sit amet egestas ullamcorper, tortor lorem fermentum lectus, at commodo risus ante ac ipsum."
+            ]
+        },
+        {
+            "years": "2010 - 2013",
+            "company": "Aviato",
+            "title": "Eureka Exclamator",
+            "keywords": ["Research"],
+            "description": [
+                "Curabitur dignissim erat justo, nec iaculis mi malesuada vel. Suspendisse id finibus erat. Maecenas congue maximus metus, ac rutrum nisi ultrices vel.",
+                "Sed vel elit et libero ultrices rutrum.",
+                "Phasellus molestie sollicitudin sem, vitae interdum dolor malesuada vitae.",
+                "Donec in ex auctor leo tincidunt finibus sit amet tempor enim. Aliquam convallis luctus ultricies. Curabitur porttitor luctus iaculis."
+            ]
+        }
+    ],
+    "seeMore": "Check the other page for details",
+    "contactTitle": "Contact",
+    "email": "email@address.com",
+    "phone": "(+99) 123 45 67 89",
+    "linkedin": "linkedin.com/in/\nsome-duck",
+    "github": "github.com/marc-llop",
+    "languagesTitle": "Languages",
+    "languages": [
+        { "language": "Catalan", "level": "Native" },
+        { "language": "English", "level": "Full professional proficiency" }
+    ],
+    "educationTitle": "Education",
+    "education": [
+        {
+            "years": "2007 - 2014",
+            "title": "Mythos Unsummoning",
+            "institution": "Miskatonic University"
+        },
+        {
+            "years": "2010 - 2012",
+            "title": "Advanced Spell-bending",
+            "institution": "Hogwarts"
+        }
+    ]
+}
